@@ -47,8 +47,6 @@ for workstations requiring GUI access.
 <refine-value idref="sysctl_net_ipv4_conf_default_secure_redirects_value" selector="disabled" />
 <refine-value idref="var_auditd_admin_space_left_action" selector="email" />
 
-<select idref="c2s_support" selected="false"/>
-<select idref="srg_support" selected="false"/>
 <select idref="encrypt_partitions" selected="true"/>
 <select idref="ensure_redhat_gpgkey_installed" selected="true"/>
 <select idref="ensure_gpgcheck_globally_activated" selected="true"/>
